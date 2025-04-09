@@ -50,13 +50,14 @@
 
 ## 🖼️ 프로젝트 소개 자료
 
-📄 [NotLonely 소개 PDF 보기](./NotLonely.pdf)
+📄 [NotLonely.pdf](https://github.com/user-attachments/files/19667773/NotLonely.pdf)
+
 
 ---
 
 ## 🎥 시연 영상
 
-[▶️ NotLonely 시연 영상 보기](./NotLonely 시연.mp4)
+[📽️ 시연 영상 보러가기 (MP4 다운로드)](./NotLonely%20시연.mp4)
 
 ---
 
