@@ -57,7 +57,7 @@
 
 ## 🎥 시연 영상
 
-[📽️ 시연 영상 보러가기 (MP4 다운로드)(https://drive.google.com/file/d/1PgVsvpEKd-jKQ0G_T6URNvMtoNLHcQW7/view?usp=sharing)]
+[📽️ 시연 영상 보러가기](https://drive.google.com/file/d/1PgVsvpEKd-jKQ0G_T6URNvMtoNLHcQW7/view?usp=sharing)]
 
 ---
 
